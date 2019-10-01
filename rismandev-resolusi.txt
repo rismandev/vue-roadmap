@@ -4,6 +4,6 @@ Vue JS Roadmap by rismandev
 1. Understanding Vue Basic.
 2. Vue State Management
 3. Vue Styling
-4. API Clients. You can use REST or GraphQL
+4. API Clients. Use REST or GraphQL
 5. Vue Testing 
 6. Vue Server-side-rendering ( Nuxt.js )
