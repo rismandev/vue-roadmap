@@ -1,9 +1,45 @@
 
 Vue JS Roadmap by rismandev
 
+Date : 2 October 2019
+
+- Vue-awesome
+- vue-html5-editor
+- vue-i18n
+- vue-image-crop-upload
+- vue-input-tag
+- vue-router
+- vue-select
+- vue-slider-component
+- vue-tel-input
+- vuejs-datepicker
+- vuex
+- bootstrap-vue
+- v-chartist
+
 1. Understanding Vue Basic.
 2. Vue State Management
 3. Vue Styling
 4. API Clients. Use REST or GraphQL
 5. Vue Testing 
 6. Vue Server-side-rendering ( Nuxt.js )
+
+Sekilas tentang Vue.js
+Preparasi dan Cara Instalasi
+Single File Component
+Template
+Data Binding
+Stylesheet
+Script
+Vue Directive
+Filter
+Lifecycle
+Methods
+Computed Properties
+Watcher
+Router
+Komunikasi Parent-Child Component
+Membuat Custom Component
+State Management dengan Vuex
+Komunikasi client-server dengan REST API
+Cara Deploy Aplikasi Vue.js
